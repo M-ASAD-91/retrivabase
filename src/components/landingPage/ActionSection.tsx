@@ -54,7 +54,7 @@ export default function ActionSection() {
         </p>
       </div>
 
-      {/* Cards */}
+      {/* Cards section  */}
       <div className="flex w-full items-center justify-between gap-5 max-lg:flex-col max-lg:items-center">
         {teamData.map((team, index) => (
           <div
